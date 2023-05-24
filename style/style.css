@@ -1,0 +1,74 @@
+body {
+    background-color: bisque;
+    font-size: 16px;
+}
+
+#titolo-pagina {
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(0, 255, 0);
+}
+
+.titolo-articolo #introduzione-pagina {
+    color: rgb(0, 255, 140)
+}
+
+#titolo-pagina .titolo-articolo {
+    font-style: italic;
+    color: green;
+    text-align: center;
+}
+
+.citazione {
+    color: brown;
+}
+
+a {
+    background-color: yellow;
+}
+
+.titolo-h2 {
+    color: red;
+}
+
+h3,
+#titolo-plutone,
+.titolo-saturno {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: darkred;
+}
+
+h3 {
+    color: blue;
+    font-style: italic;
+}
+
+.Illustrazione.caption-illustrazione {
+    color: cadetblue;
+}
+
+
+/*
+h1 {
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+
+h2 {
+    color: blueviolet;
+}
+
+p a, figure figcaption {
+    color: cornflowerblue;
+}
+
+ol li {
+    color: green;
+}
+*/
